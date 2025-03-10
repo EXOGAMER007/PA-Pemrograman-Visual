@@ -1,0 +1,16 @@
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\bin\Debug\net8.0-windows\latihan post test 1.exe
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\bin\Debug\net8.0-windows\latihan post test 1.deps.json
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\bin\Debug\net8.0-windows\latihan post test 1.runtimeconfig.json
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\bin\Debug\net8.0-windows\latihan post test 1.dll
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\bin\Debug\net8.0-windows\latihan post test 1.pdb
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\obj\Debug\net8.0-windows\latihan_post_test_1.Form1.resources
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\obj\Debug\net8.0-windows\latihan post test 1.vbproj.GenerateResource.cache
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\obj\Debug\net8.0-windows\latihan post test 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\obj\Debug\net8.0-windows\latihan post test 1.AssemblyInfoInputs.cache
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\obj\Debug\net8.0-windows\latihan post test 1.AssemblyInfo.vb
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\obj\Debug\net8.0-windows\latihan post test 1.vbproj.CoreCompileInputs.cache
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\obj\Debug\net8.0-windows\latihan post test 1.dll
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\obj\Debug\net8.0-windows\refint\latihan post test 1.dll
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\obj\Debug\net8.0-windows\latihan post test 1.pdb
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\obj\Debug\net8.0-windows\latihan post test 1.genruntimeconfig.cache
+C:\Users\Asus TUF\Documents\Kuliah\SMT 4\Praktikum\Programan Visual\Latihan\latihan post test 1\obj\Debug\net8.0-windows\ref\latihan post test 1.dll
