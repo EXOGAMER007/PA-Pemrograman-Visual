@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("latihan post test 1"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c43cc4085590c8623bceeb689942f29103a274f"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("latihan post test 1"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("latihan post test 1"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
