@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Asus TUF\\Documents\\Kuliah\\SMT 4\\Praktikum\\Programan Visual\\PA-Pemrograman-Visual\\PostTest2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{64663C6E-B5FE-4384-B91E-B8FBE040C077}|PostTest2.vbproj|c:\\users\\asus tuf\\documents\\kuliah\\smt 4\\praktikum\\programan visual\\pa-pemrograman-visual\\posttest2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{64663C6E-B5FE-4384-B91E-B8FBE040C077}|PostTest2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{64663C6E-B5FE-4384-B91E-B8FBE040C077}|PostTest2.vbproj|c:\\users\\asus tuf\\documents\\kuliah\\smt 4\\praktikum\\programan visual\\pa-pemrograman-visual\\posttest2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{64663C6E-B5FE-4384-B91E-B8FBE040C077}|PostTest2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64663C6E-B5FE-4384-B91E-B8FBE040C077}|PostTest2.vbproj|c:\\users\\asus tuf\\documents\\kuliah\\smt 4\\praktikum\\programan visual\\pa-pemrograman-visual\\posttest2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{64663C6E-B5FE-4384-B91E-B8FBE040C077}|PostTest2.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\Asus TUF\\Documents\\Kuliah\\SMT 4\\Praktikum\\Programan Visual\\PA-Pemrograman-Visual\\PostTest2\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "C:\\Users\\Asus TUF\\Documents\\Kuliah\\SMT 4\\Praktikum\\Programan Visual\\PA-Pemrograman-Visual\\PostTest2\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAswDgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2025-03-17T13:10:28.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "C:\\Users\\Asus TUF\\Documents\\Kuliah\\SMT 4\\Praktikum\\Programan Visual\\PA-Pemrograman-Visual\\PostTest2\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
