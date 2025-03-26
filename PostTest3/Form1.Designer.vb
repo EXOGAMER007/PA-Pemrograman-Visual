@@ -22,7 +22,6 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(Form1))
         gambar = New PictureBox()
         Browse = New Button()
         Label1 = New Label()
@@ -58,7 +57,6 @@ Partial Class Form1
         ' 
         ' gambar
         ' 
-        gambar.Image = CType(resources.GetObject("gambar.Image"), Image)
         gambar.Location = New Point(532, 12)
         gambar.Name = "gambar"
         gambar.Size = New Size(271, 259)
