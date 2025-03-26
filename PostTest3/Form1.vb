@@ -49,11 +49,13 @@
         If txtTelpon.Text = "" Then Return False
         If txtUmur.Text = "" Then Return False
 
-        If Not radioLaki.Checked Or Not radioPerempuan.Checked Or Not checkBuku.Checked Or Not checkCerita.Checked Or Not checkGame.Checked Or Not checkHujan.Checked Or Not checkInternet.Checked Or Not checkJalan.Checked Or Not checkKemping.Checked Or Not checkNginap.Checked Or Not checkTIdur.Checked Or Not checkWC.Checked Then
+        If radioLaki.Checked = False And radioPerempuan.Checked = False Then Return False
+
+        If checkBuku.Checked = False And checkCerita.Checked = False And checkGame.Checked = False And checkHujan.Checked = False And checkInternet.Checked = False And checkJalan.Checked = False And checkKemping.Checked = False And checkNginap.Checked = False And checkTIdur.Checked = False And checkWC.Checked = False Then
             Return False
         End If
 
-        If gambar.Image Is Nothing Then Return False
+        If gambar.ImageLocation Is Nothing Then Return False
 
         Return True
     End Function
