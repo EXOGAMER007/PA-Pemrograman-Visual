@@ -18,10 +18,10 @@ VALUES (@id, @note, @kode)", CONN)
         CMD2.ExecuteNonQuery()
     End Sub
     Private Sub BtnKembali_Click(sender As Object, e As EventArgs) Handles BtnKembali.Click
-
+        Form1.CekDataReader()
         Dim ubah As String = "update tbnote set Note = (@note) where id = @id"
         CMD = New MySqlCommand(ubah, CONN)
-        CMD.Parameters.AddWithValue("@id", "1")
+        CMD.Parameters.AddWithValue("@id", Form1.TxtKode.Text)
         CMD.Parameters.AddWithValue("@note", TxtCatatan.Text)
         CMD.ExecuteNonQuery()
         Me.Close()
